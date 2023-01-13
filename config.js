@@ -161,7 +161,7 @@ const CONFIG = {
 					link: 'https://www.youtube.com',
 				},
 				{
-					name: 'Slack',
+					name: 'Photopea',
 					link: 'https://www.photopea.com',
 				},
 			],
