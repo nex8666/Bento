@@ -53,9 +53,9 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Discord',
-			icon: 'discord',
-			link: 'https://discord.com/',
+			name: 'Figma',
+			icon: 'figma',
+			link: 'https://figma.com/',
 		},
 		{
 			id: '2',
