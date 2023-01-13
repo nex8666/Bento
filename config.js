@@ -55,7 +55,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Discord',
 			icon: 'discord',
-			link: 'https://github.com/',
+			link: 'https://discord.com/',
 		},
 		{
 			id: '2',
@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Photopea',
-			icon: 'photopea',
-			link: 'https://photopea.com',
+			name: 'Twitter',
+			icon: 'twitter',
+			link: 'https://twitter.com',
 		},
 		{
 			id: '5',
@@ -127,20 +127,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'japanese',
+					link: 'https://open.spotify.com/playlist/4OMXLmYkcfEbUkWpPXsWHu?si=6b8fdf0e5bf1451b',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'vocaloid',
+					link: 'https://open.spotify.com/playlist/5fSAZ9Tgwbvpx8hqTW2uts?si=6d7c77153bdd4397',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'kpop',
+					link: 'https://open.spotify.com/playlist/5hu3OrdVFCtmdOew5jXvtW?si=2f921e65772f4495',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'everything goes on',
+					link: 'https://open.spotify.com/playlist/04aa4IZZLguImYFHLvyTKZ?si=e1949dad7d144e22',
 				},
 			],
 		},
@@ -149,20 +149,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Twitter',
+					link: 'https://www.twitter.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Twitch',
+					link: 'https://www.twitch.tv',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'YouTube',
+					link: 'https://www.youtube.com',
 				},
 				{
 					name: 'Slack',
-					link: 'https://www.slack.com',
+					link: 'https://www.photopea.com',
 				},
 			],
 		},
